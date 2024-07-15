@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(24, 139, 143);
+}
+
+h1{
+    color: gold;
+}
+
+h2.img_click{
+    color: rgb(179, 255, 0);
+}
+
+h2#main.img_click{
+    color: rgb(89, 40, 153);
+}
+
+h2.items{
+    color: pink;
+}
+
+li{
+    font-size: 6mm;
+}
